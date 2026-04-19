@@ -2,7 +2,6 @@
 
 ## 1.0.0 (2026-04-19)
 
-
 ### Features
 
 * add codeowners ([778fbb8](https://github.com/ScottGibb/Train-Controller/commit/778fbb86a2da23d7cf4bec97fed75c86fcae15e1))
