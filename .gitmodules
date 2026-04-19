@@ -1,0 +1,6 @@
+[submodule "hardware"]
+	path = hardware
+	url = git@github.com:ScottGibb/Train-Driver-Hardware.git
+[submodule "firmware"]
+	path = firmware
+	url = git@github.com:ScottGibb/Train-Driver-Firmware.git
